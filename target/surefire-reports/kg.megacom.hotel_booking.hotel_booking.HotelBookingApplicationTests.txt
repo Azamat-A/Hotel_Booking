@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: kg.megacom.hotel_booking.hotel_booking.HotelBookingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.395 s - in kg.megacom.hotel_booking.hotel_booking.HotelBookingApplicationTests
