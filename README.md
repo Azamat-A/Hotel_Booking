@@ -1,2 +1,7 @@
 About: 
-Приложение про бронированию отелей (Booking hotels app).
+Приложение предлагает богатый набор фильтров и сортировки и позволяет бронировать номера.
+
+Tehnology:
+#JAVA #SpringFrameWork #Hibernate #PostgreSQL
+
+
